@@ -1,6 +1,6 @@
-## UDSM - Health Analytics and Modelling Unit (HAMU)
+## UDSM - Modelling and Data Analytics Unit (MDAU)
 
-The UDSM Health Analytics and Modelling Unit (HAMU) champions data-first approaches to strengthen Tanzania's health sector. Based at the University of Dar es Salaam, HAMU blends advanced analytics, operational research, and collaborative systems engineering to turn complex health data into actionable insights.
+The UDSM Modelling and Data Analytics Unit (MDAU) champions data-first approaches to strengthen Tanzania's health sector. Based at the University of Dar es Salaam, MDAU blends advanced analytics, operational research, and collaborative systems engineering to turn complex data into actionable insights.
 
 ### What we do
 
